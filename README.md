@@ -10,8 +10,10 @@ In this context of the study, we are correlating the given task, and the four tr
 The test dataset can be made up of new measurements or observations that represent a different set of conditions not covered by the training datasets. The datasets for 50 ideal functions represent the expected behaviour or theoretical models of the components. Overall, the goal is to select the best-fit ideal functions that minimise deviations by comparing the training data to the ideal functions, and then use those functions to map and evaluate the test data.
 
 
-# Problem Definition: The task is to create a Python program that analyses the performance of electronic components by Using training data, select the four best-fitting functions from the fifty available. Furthermore, the program must use the provided test data to decide whether or not each x-y pair of values can be assigned to one of the four ideal functions. If this is the case, the program must additionally execute  the mapping and save it alongside the deviation at hand.
+# Problem Definition:
+The task is to create a Python program that analyses the performance of electronic components by Using training data, select the four best-fitting functions from the fifty available. Furthermore, the program must use the provided test data to decide whether or not each x-y pair of values can be assigned to one of the four ideal functions. If this is the case, the program must additionally execute  the mapping and save it alongside the deviation at hand.
 
 
-# Aim and Objectives: The primary goal of this research is to create a reliable and effective Python program. Based on the training data, the program should select the four best-fit ideal functions from a set of 50 functions and then map the test data to these chosen functions while taking a deviation criterion into account.
+# Aim and Objectives:
+The primary goal of this research is to create a reliable and effective Python program. Based on the training data, the program should select the four best-fit ideal functions from a set of 50 functions and then map the test data to these chosen functions while taking a deviation criterion into account.
 
