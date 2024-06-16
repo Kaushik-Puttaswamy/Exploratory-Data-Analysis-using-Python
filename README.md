@@ -2,7 +2,7 @@
 
 # Project Overview:
 
-•	The given task in this programming with Python subject is to achieve and carry out data storage and retrieval, exploratory data analysis and model selection, data collection, data cleansing, data visualization, data mapping and deviation calculation, unit testing, and so on. 
+•	The given task in this project is to achieve and carry out data storage and retrieval, exploratory data analysis and model selection, data collection, data cleansing, data visualization, data mapping and deviation calculation, unit testing, and so on. 
 
 •	To complete this list of tasks, three datasets are provided: train, ideal, and test sets. Correlating the given task to a real world scenario in which a company manufactures electronic devices As a data scientist, my job is to analyze the performance of various components used in their devices and track that data against the optimal reading to predict if a piece of equipment is about to fail(Washam, 2022). In regards to that, we have the data sets from various experiments and tests conducted on these components, resulting in four training datasets (A) and one test dataset (B). Additionally, we have access to datasets for 50 ideal functions (C), which represent the expected behaviour of the components. 
 
