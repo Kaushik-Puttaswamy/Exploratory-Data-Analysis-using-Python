@@ -62,6 +62,7 @@ EDA techniques were applied to analyze dataset properties and relationships. Var
 
 • 📊 Boxplot of Train Dataset
 
+• 📈 Scatter plot with Regression Line
 
 ### 📂 Ideal Dataset Analysis
 
