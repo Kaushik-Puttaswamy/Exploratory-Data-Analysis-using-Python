@@ -62,7 +62,7 @@ EDA techniques were applied to analyze dataset properties and relationships. Var
 
 • 📊 Boxplot of Train Dataset
 
-![Boxplot of Train Dataset.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/main/Images/Boxplot%20of%20Train%20Dataset.png)
+![Boxplot of Train Dataset.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Boxplot%20of%20Train%20Dataset.png)
 
 • 📈 Scatter plot with Regression Line
 
