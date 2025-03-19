@@ -132,7 +132,9 @@ Bar charts were generated for each function:
 
 ![Absolute Maximum Deviation Bar Chart_1.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Absolute%20Maximum%20Deviation%20Bar%20Chart_1.png)
 
-!Absolute Maximum Deviation Bar Chart_2.png[](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Absolute%20Maximum%20Deviation%20Bar%20Chart_2.png)
+![Absolute Maximum Deviation Bar Chart_2.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Absolute%20Maximum%20Deviation%20Bar%20Chart_2.png)
+
+
 • 📈 Scatter Plot of Mapped Test Data
 
 ![Scatter Plot of Mapped Test Data.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Scatter%20Plot%20of%20Mapped%20Test%20Data.png)
