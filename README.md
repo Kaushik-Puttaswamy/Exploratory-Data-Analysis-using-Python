@@ -62,17 +62,23 @@ EDA techniques were applied to analyze dataset properties and relationships. Var
 
 • 📊 Boxplot of Train Dataset
 
+![Boxplot of Train Dataset.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Boxplot%20of%20Train%20Dataset.png)
+
 • 📈 Scatter plot with Regression Line
+
+![Scatter plot with Regression Line.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Scatter%20plot%20with%20Regression%20Line.png)
 
 ### 📂 Ideal Dataset Analysis
 
 • 📊 Boxplot of Ideal Dataset
 
+![Boxplot of Ideal Dataset.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Boxplot%20of%20Ideal%20Dataset.png)
+
 ### 📂 Test Dataset Analysis
 
-• 📊 Boxplot Before Removing Duplicates
-
 • 📊 Boxplot After Removing Duplicates
+
+![Boxplot After Removing Duplicates.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Boxplot%20After%20Removing%20Duplicates.png)
 
 ### 🗄 Data Storage and Retrieval
 
@@ -94,25 +100,44 @@ Bar charts were generated for each function:
 
 • 📊 Least Squares Bar Chart (Y1 Train Data)
 
+![Least Squares Bar Chart (Y1 Train Data).png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Least%20Squares%20Bar%20Chart%20(Y1%20Train%20Data).png)
+
 • 📊 Least Squares Bar Chart (Y2 Train Data)
+
+![Least Squares Bar Chart (Y2 Train Data).png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Least%20Squares%20Bar%20Chart%20(Y2%20Train%20Data).png)
 
 • 📊 Least Squares Bar Chart (Y3 Train Data)
 
+![Least Squares Bar Chart (Y3 Train Data).png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Least%20Squares%20Bar%20Chart%20(Y3%20Train%20Data).png)
+
 • 📊 Least Squares Bar Chart (Y4 Train Data)
+
+![Least Squares Bar Chart (Y4 Train Data).png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Least%20Squares%20Bar%20Chart%20(Y4%20Train%20Data).png)
 
 ## 📈 Regression Line Comparisons
 
 • Scatter plot of Training vs. Ideal Functions
 
+![Scatter plot of Training vs. Ideal Functions.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Scatter%20plot%20of%20Training%20vs.%20Ideal%20Functions.png)
+
 ## 📉 Mean Squared Error Method
 
 • 📊 R-Squared Values for Test Data Mapping
+
+![R-Squared Values for Test Data Mapping.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/R-Squared%20Values%20for%20Test%20Data%20Mapping.png)
 
 ## 🔗 Mapping Test Dataset with Ideal Functions
 
 • 📊 Absolute Maximum Deviation Bar Chart
 
+![Absolute Maximum Deviation Bar Chart_1.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Absolute%20Maximum%20Deviation%20Bar%20Chart_1.png)
+
+![Absolute Maximum Deviation Bar Chart_2.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Absolute%20Maximum%20Deviation%20Bar%20Chart_2.png)
+
+
 • 📈 Scatter Plot of Mapped Test Data
+
+![Scatter Plot of Mapped Test Data.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Scatter%20Plot%20of%20Mapped%20Test%20Data.png)
 
 ## 🏁 Conclusion
 
