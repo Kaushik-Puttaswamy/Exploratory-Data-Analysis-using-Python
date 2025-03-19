@@ -88,9 +88,15 @@ SQLite was used for storing datasets, accessed via SQLAlchemy ORM in Python.
 
 🏷 Training Data Table
 
+![Training Data Table.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Training%20Data%20Table.png)
+
 🏷 Ideal Functions Table
 
+![Ideal Functions Table.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Ideal%20Functions%20Table.png)
+
 🏷 Test Data Mapping Table
+
+![Test Data Mapping Table.png](https://github.com/Kaushik-Puttaswamy/Exploratory-Data-Analysis-using-Python/blob/dev/Images/Test%20Data%20Mapping%20Table.png)
 
 ## 🔎 Finding Ideal Functions
 
